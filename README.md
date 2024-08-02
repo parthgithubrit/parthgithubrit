@@ -1,22 +1,7 @@
-<h1 align="center">Hi 👋, I'm Parth Jethva/h1>
+<h1 align="center">Hi 👋, I'm Parth Jethva>
 <h3 align="center">A passionate Business Start-up from Gujrat</h3>
 <p align="center">I have a deep enthusiam for learning new technologies and exploring diverse fields.🌐 combining my enterpreneurial drive with a thrist for knowledge, i thrive on tackling challange and finding innovative solutions.Leveraging my strong problem solving skills and eagerness to learn,I am poised to make a significant impact in any field i venture into🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
 
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
