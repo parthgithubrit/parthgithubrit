@@ -9,7 +9,6 @@ I have a deep enthusiam for learning new technologies and exploring diverse fiel
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
