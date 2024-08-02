@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">Hi 👋, I'm Parth Jethva
 A passionate Business Start-up from Gujrat
@@ -36,7 +33,7 @@ I have a deep enthusiam for learning new technologies and exploring diverse fiel
 
 
 ## Connect with me  
-<div align="center">
+
 <a href="https://github.com/parthgithubrit" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
